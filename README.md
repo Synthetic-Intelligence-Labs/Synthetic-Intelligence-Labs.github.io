@@ -88,23 +88,26 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
 <br>
 <br>
 <br>
-🤝 Collaborative Milestones:
 
-- **University of Michigan**: Advancing optical stimulation in "DishBrain" experiment replicas.
-  
-- [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
-  
-- [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
-<br>
-<br>
-<br>
-Connect with Us
-For inquiries related to press, collaboration, or funding, reach out to us at:
-- 📧 soul.syrup@yandex.com
-- 📧 soul.syrupp@gmail.com
+<div align="center">
+    <!-- Collaborative Milestones -->
+    <h2>🤝 Collaborative Milestones:</h2>
+    <ul>
+        <li><strong>University of Michigan</strong>: Advancing optical stimulation in "DishBrain" experiment replicas.</li>
+        <li><a href="https://finalspark.com/"><strong>FinalSpark</strong></a>: Delving into human cortical spheroid learning mechanisms.</li>
+        <li><a href="https://sites.google.com/site/complexlivingmachineslab"><strong>University of Reading</strong></a>: Innovative use of bacteria in neural networks.</li>
+    </ul>
 
-Our repositories are located at https://github.com/Unlimited-Research-Cooperative
-<br>
-<br>
-<br>
-Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.
+    <h2>Connect with Us</h2>
+    <p>For inquiries related to press, collaboration, or funding, reach out to us at:</p>
+    <ul>
+        <li>📧 soul.syrup@yandex.com</li>
+        <li>📧 soul.syrupp@gmail.com</li>
+    </ul>
+    <p>Our repositories are located at <a href="https://github.com/Unlimited-Research-Cooperative">https://github.com/Unlimited-Research-Cooperative</a></p>
+
+    <p>Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.</p>
+</div>
+
+</body>
+</html>
