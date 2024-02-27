@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Synthetic Intelligence Labs</title>
+    <h2 align="center">Synthetic Intelligence Labs</h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <meta charset="UTF-8">
     <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
     <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
@@ -50,10 +55,10 @@
   <br>
 <div align="center">
   
-# Synthetic Intelligence Labs
+
 <br><br>
 <br><br>
-### Pioneering the Future of Synthetic Biology and Intelligence
+Pioneering the Future of Synthetic Biology and Intelligence
 
 Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intelligence Labs is a beacon of avant-garde research in bio-silicon synergetic systems. We are dedicated to transcending the boundaries of biological and artificial intelligence.
 <br><br>
@@ -90,7 +95,6 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
 <br>
 
 <div align="center">
-    <!-- Collaborative Milestones -->
     <h2>🤝 Collaborative Milestones:</h2>
     <ul>
         <li><strong>University of Michigan</strong>: Advancing optical stimulation in "DishBrain" experiment replicas.</li>
