@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Synthetic Intelligence Labs</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
+    <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Investors, Venture Capital, Media, News">
+    <meta name="author" content="Synthetic Intelligence Labs">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: #000000; /* Black background */
+            color: #D3D3D3; /* Light grey text */
+        }
+        a {
+            color: #D3D3D3; /* Light grey links */
+        }
+        a:hover {
+            color: #ffffff; /* White text for hover state */
+        }
+    </style>
+</head>
+<body>
+
 
 <div align="center">
   <a href="https://www.tiktok.com/@synthetic_intelligence">
