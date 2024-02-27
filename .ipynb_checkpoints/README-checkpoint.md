@@ -69,8 +69,7 @@
     </a>
     <br>
     <br>
-    <br>
-    </a> Support us on Boosty <br>
+    <br> Support us on Boosty <br>
     <br>
     <a href="https://boosty.to/synthetic_intelligence">
       <img src="https://seeklogo.com/images/B/boosty-logo-C353020249-seeklogo.com.png" alt="Support us on Boosty" width="200">
@@ -117,7 +116,7 @@
     <!-- Another separator -->
     <a href="https://mvcs.one">MVCS Project</a>
   </h3>
-  </div>
+
   <br>
   <br>
   <br>
@@ -146,7 +145,6 @@
       </a>: Systems and states of neural signals.
     </li>
     <br>
-    </ul>
     <br>
     <br>
     <br>
@@ -173,5 +171,3 @@
     <br>
     <br>
     <p>Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.</p>
-  </div>
-</body>
