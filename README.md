@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <h2 align="center">Synthetic Intelligence Labs</h2>
@@ -62,6 +61,11 @@ Pioneering the Future of Synthetic Biology and Intelligence
 
 Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intelligence Labs is a beacon of avant-garde research in bio-silicon synergetic systems. We are dedicated to transcending the boundaries of biological and artificial intelligence.
 <br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
   <a href="https://www.patreon.com/synthetic_intelligence">
     <img src="https://your-patreon-logo-url-here" alt="Support us on Patreon">
   </a>
@@ -71,7 +75,11 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
   </a>
 </div>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">Projects</h2>
 
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat">Bio Silicon Synergetic Learning System</a></h3>
@@ -82,9 +90,16 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">HASEL Crab Robots</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets (starting april 2024)</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
-<h3 align="center"><a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a></h3>(https://discord.gg/r2qUZMkGCB)  
-<h3 align="center"><a href="https://discord.gg/HBHGvDxDmt">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a></h3>(https://discord.gg/UvphcuHWzb) (https://mvcs.one)
-
+<h3 align="center">
+  <a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a>
+  &#124; <!-- This is an HTML entity for the vertical bar, used as a separator -->
+  <a href="https://discord.gg/r2qUZMkGCB">Discord Community</a>
+</h3>
+<h3 align="center">
+  <a href="https://discord.gg/UvphcuHWzb">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a>
+  &#124; <!-- Another separator -->
+  <a href="https://mvcs.one">MVCS Project</a>
+</h3>
 
 
 </div>
@@ -101,7 +116,11 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
         <li><a href="https://finalspark.com/"><strong>FinalSpark</strong></a>: Delving into human cortical spheroid learning mechanisms.</li>
         <li><a href="https://sites.google.com/site/complexlivingmachineslab"><strong>University of Reading</strong></a>: Innovative use of bacteria in neural networks.</li>
     </ul>
-
+<br>
+<br>
+<br>
+<br>
+<br>
     <h2>Connect with Us</h2>
     <p>For inquiries related to press, collaboration, or funding, reach out to us at:</p>
     <ul>
@@ -109,7 +128,6 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
         <li>📧 soul.syrupp@gmail.com</li>
     </ul>
     <p>Our repositories are located at <a href="https://github.com/Unlimited-Research-Cooperative">https://github.com/Unlimited-Research-Cooperative</a></p>
-
     <p>Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.</p>
 </div>
 
