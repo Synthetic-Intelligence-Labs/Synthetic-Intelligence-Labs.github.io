@@ -50,6 +50,7 @@
             margin-top: 50px;
         }
     </style>
+</head>
 <body>
     <div class="container">
         <h1>Good Manufacturing Practice (GMP) Standards for Remote Stimulation Experiments and Data Analysis</h1>
