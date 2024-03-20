@@ -149,6 +149,9 @@
     <br>
     <br>
     <br>
+    <h3 align="center">
+      <a href="https://Synthetic-Intelligence-Labs.github.io/experiment-GMP">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids GMP</a>
+    </h3>
     <br>
     <br>
     <br>
