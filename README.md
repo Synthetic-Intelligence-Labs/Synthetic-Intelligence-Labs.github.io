@@ -1,9 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
     <meta charset="UTF-8">
     <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
     <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
@@ -28,9 +25,18 @@
             color: #ffffff;
             /* White text for hover state */
         }
+
+        .logo-container {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
+  <div class="logo-container">
+    <img src="https://raw.githubusercontent.com/Synthetic-Intelligence-Labs/Synthetic-Intelligence-Labs.github.io/main/name_and_icon_black_background.png" alt="Synthetic Intelligence Labs Logo">
+  </div>
+  <br>
+  <br>
   <div align="center">
     <a href="https://www.tiktok.com/@synthetic_intelligence">
       <img src="https://img.shields.io/badge/TikTok-synthetic_intelligence_labs-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
