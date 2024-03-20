@@ -4,30 +4,31 @@
   <br>
   <br>
   <br>
-  <meta charset="UTF-8">
-  <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
-  <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
-  <meta name="author" content="Synthetic Intelligence Labs">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
-      background-color: #000000;
-      /* Black background */
-      color: #D3D3D3;
-      /* Light grey text */
-    }
+    <meta charset="UTF-8">
+    <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
+    <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
+    <meta name="author" content="Synthetic Intelligence Labs">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: black;
+            /* Black background */
+            color: #D3D3D3;
+            /* Light grey text */
+            font-family: serif;
+            padding: 20px;
+        }
 
-    a {
-      color: #D3D3D3;
-      /* Light grey links */
-    }
+        a {
+            color: #D3D3D3;
+            /* Light grey links */
+        }
 
-    a:hover {
-      color: #ffffff;
-      /* White text for hover state */
-    }
-  </style>
+        a:hover {
+            color: #ffffff;
+            /* White text for hover state */
+        }
+    </style>
 </head>
 <body>
   <div align="center">
@@ -149,8 +150,7 @@
     <br>
     <br>
     <h3 align="center">
-      <a href="https://Synthetic-Intelligence-Labs.github.io/remote-cortical-spheroid-protocol">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
-
+      <a href="https://Synthetic-Intelligence-Labs.github.io/experiment-protocol">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
     </h3>
     <br>
     <br>
