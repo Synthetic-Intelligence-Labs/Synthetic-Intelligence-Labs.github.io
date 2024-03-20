@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +5,10 @@
     <title>GMP Standards for Remote Stimulation Experiments and State of the Art Data Analysis for Human Cortical Spheroids</title>
     <style>
         body {
-            background-color: black;
-            color: white;
             font-family: serif;
+            background-color: black; /* Set background color to black */
+            color: #D3D3D3; /* Set text color to light grey */
+            line-height: 1.6;
             padding: 20px;
         }
         h1 {
