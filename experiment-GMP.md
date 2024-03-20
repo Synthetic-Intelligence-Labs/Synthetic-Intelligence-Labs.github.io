@@ -53,7 +53,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Good Manufacturing Practice (GMP) Standards for Remote Stimulation Experiments and Data Analysis</h1>
+        <h1>Good Manufacturing Practice (GMP) Standards for Remote Stimulation and State of the Art Data Analysis for Human Cortical Spheroids</h1>
         <p><strong>Date of Creation:</strong> March 19, 2024</p>
         <p><strong>Version Number:</strong> 1.0</p>
         <p><strong>Author:</strong> Synthetic Intelligence Labs</p>
