@@ -55,6 +55,13 @@
     <br>
     <br>
     <br>
+      At Synthetic Intelligence Labs, we specialize in providing cutting-edge research services for the stimulation of human cortical organoids, spheroids, and rat brains, catering to the needs of researchers, academic institutions, laboratories, and medical facilities. Our offerings span from the meticulous design of experimental protocols to the generation of detailed and actionable data for our clients.
+
+Utilizing our comprehensive data analysis capabilities, we integrate a wide array of principles from theoretical physics and systems science. Our expertise in dynamical systems, chaos theory, phase space analysis, entropy quantification, and both spectral and harmonic analysis enables us to thoroughly explore and interpret complex neural datasets. This multidisciplinary approach not only deepens our understanding of the underlying dynamics of neural systems but also aids in the identification of novel patterns and relationships within neural activities. Such insights can provide a transformative perspective on brain function and behavioral patterns.
+
+Further enriching our suite of services, we develop interactive applications and games for bidirectional brain-computer interface (BCI) systems, compatible with organoids, spheroids, rat brains, and even bacterial models. These innovative tools offer unprecedented opportunities for interactive experimentation and deeper insights into neural systems, opening new avenues for research and application in the field of neuroscience.
+
+Whether the goal is to delve into the complexities of brain functions, pioneer the development of novel BCI technologies, or conduct an in-depth analysis of intricate neural data, Synthetic Intelligence Labs stands ready to support and enhance these endeavors. Our commitment to advancing neuroscience research extends to providing the scientific and medical communities with services characterized by excellence and innovation.
     <br>
     <br>
     <br> Support us on Patreon <br>
