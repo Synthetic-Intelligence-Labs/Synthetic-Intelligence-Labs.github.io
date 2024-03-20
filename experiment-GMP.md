@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,6 +27,15 @@
         }
         ol li {
             margin-bottom: 5px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding-left: 20px; /* Indent the container content */
+        }
+        .logo-container {
+            text-align: center;
+            margin-top: 50px;
         }
     </style>
 </head>
@@ -73,9 +83,9 @@
     
         <h2>9. Audit and Review</h2>
         <p>Regular audits ensure ongoing compliance with GMP standards, with immediate action taken to address any identified areas for improvement, reinforcing the commitment to research excellence and integrity.</p>
-        
-        <div class="logo-container">
-            <img src="https://raw.githubusercontent.com/Synthetic-Intelligence-Labs/Synthetic-Intelligence-Labs.github.io/main/name_and_icon_black_background.png" alt="Synthetic Intelligence Labs Logo">
+    </div>
+    <div class="logo-container">
+        <img src="https://raw.githubusercontent.com/Synthetic-Intelligence-Labs/Synthetic-Intelligence-Labs.github.io/main/name_and_icon_black_background.png" alt="Synthetic Intelligence Labs Logo">
     </div>
 </body>
 </html>
