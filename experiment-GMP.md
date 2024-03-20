@@ -34,7 +34,7 @@
     <p><strong>Date of Creation:</strong> March 19, 2024</p>
     <p><strong>Version Number:</strong> 1.0</p>
     <p><strong>Author:</strong> Synthetic Intelligence Labs</p>
-    <p><strong>Contact Information:</strong> <a href="mailto:soul.syrup@yandex.com">info@synthetic-intelligencelabs.com</a></p>
+    <p><strong>Contact Information:</strong> <a href="mailto:soul.syrup@yandex.com">soul.syrup@yandex.com</a></p>
 
     <h2>1. Introduction</h2>
     <p>Synthetic Intelligence Labs is dedicated to advancing neuroscience through data analysis and experiment design for human cortical spheroids. This document codifies the GMP standards upheld to ensure the quality, safety, and integrity of all research endeavors.</p>
