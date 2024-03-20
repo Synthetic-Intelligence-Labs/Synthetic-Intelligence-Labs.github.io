@@ -148,6 +148,10 @@
     <br>
     <br>
     <br>
+    <h3 align="center">
+      <a href="remote-cortical-spheroid-protocol.md">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
+    </h3>
+
     <br>
     <br>
     <h2>Connect with Us</h2>
