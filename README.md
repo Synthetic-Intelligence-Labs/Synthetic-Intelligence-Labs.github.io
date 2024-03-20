@@ -149,7 +149,8 @@
     <br>
     <br>
     <h3 align="center">
-      <a href="remote-cortical-spheroid-protocol.md">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
+      <a href="https://Synthetic-Intelligence-Labs.github.io/remote-cortical-spheroid-protocol">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
+
     </h3>
     <br>
     <br>
