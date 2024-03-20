@@ -6,16 +6,18 @@
     <title>Remote Stimulation Experiments and State of the Art Data Analysis for Human Cortical Spheroids</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: serif;
+            background-color: black; /* Set background color to black */
+            color: #D3D3D3; /* Set text color to light grey */
             line-height: 1.6;
+            padding: 20px;
         }
         .container {
             max-width: 800px;
             margin: auto;
-            padding: 20px;
         }
         h1, h2, h3 {
-            color: #333;
+            color: #D3D3D3; /* Set heading colors to light grey */
         }
         h2 {
             margin-top: 30px;
@@ -29,6 +31,23 @@
         }
         ol li {
             margin-bottom: 5px;
+        }
+        a {
+            color: #D3D3D3; /* Set link color to light grey */
+        }
+        a:hover {
+            color: #ffffff; /* Set link hover color to white */
+        }
+        strong {
+            color: #ffffff; /* Set strong text color to white */
+        }
+        ul {
+            list-style-type: disc; /* Set unordered list style */
+            margin-left: 20px;
+        }
+        .logo-container {
+            text-align: center;
+            margin-top: 50px;
         }
     </style>
 </head>
@@ -93,5 +112,9 @@
         <h2 id="documentation">8. Documentation and Records</h2>
         <p>All experimental protocols, collected data, and analysis outcomes will be securely archived on GitHub, ensuring full accessibility for the research institution team. The management of proprietary or confidential information will follow mutually agreed-upon protocols, safeguarding intellectual property and ethical considerations.</p>
     </div>
+    <div class="logo-container">
+    <img src="https://raw.githubusercontent.com/Synthetic-Intelligence-Labs/Synthetic-Intelligence-Labs.github.io/main/name_and_icon_black_background.png" alt="Synthetic Intelligence Labs Logo">
+</div>
+
 </body>
 </html>
