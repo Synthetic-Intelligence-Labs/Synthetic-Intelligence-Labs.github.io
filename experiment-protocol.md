@@ -58,19 +58,6 @@
         <p><strong>Version Number:</strong> 1.0</p>
         <p><strong>Author:</strong> Synthetic Intelligence Labs</p>
         <p><strong>Contact Information:</strong> <a href="mailto:soul.syrup@yandex.com">soul.syrup@yandex.com</a></p>
-
-        
-        <h2>Table of Contents</h2>
-        <ol>
-            <li><a href="#introduction">Introduction</a></li>
-            <li><a href="#scope">Scope</a></li>
-            <li><a href="#responsibilities">Responsibilities</a></li>
-            <li><a href="#materials">Materials and Equipment</a></li>
-            <li><a href="#methodology">Methodology</a></li>
-            <li><a href="#data">Data Collection and Analysis</a></li>
-            <li><a href="#quality">Quality Control</a></li>
-            <li><a href="#documentation">Documentation and Records</a></li>
-        </ol>
         
         <h2 id="introduction">1. Introduction</h2>
         <p>This document provides a comprehensive protocol for conducting advanced remote stimulation experiments on human cortical spheroids, accompanied by in-depth data analysis. Utilizing the state-of-the-art technology developed by Synthetic Intelligence Labs, this protocol is designed to facilitate sophisticated research endeavors, allowing researchers to design, execute, and analyze complex experiments remotely. This initiative ensures the highest levels of efficiency and safety, minimizing the need for direct interaction with biological materials and laboratory environments.</p>
