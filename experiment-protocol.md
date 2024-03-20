@@ -17,6 +17,7 @@
         }
         h1, h2, h3 {
             color: #D3D3D3; /* Set heading colors to light grey */
+            text-align: center; /* Center align headings */
         }
         h2 {
             margin-top: 30px;
