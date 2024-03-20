@@ -7,26 +7,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-color: black;
-            /* Black background */
-            color: #D3D3D3;
-            /* Light grey text */
             font-family: serif;
+            background-color: black; /* Set background color to black */
+            color: #D3D3D3; /* Set text color to light grey */
+            line-height: 1.6;
             padding: 20px;
         }
-
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #D3D3D3; /* Set heading colors to light grey */
+            text-align: center; /* Center align headings */
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        h3 {
+            margin-top: 20px;
+        }
+        ol {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        ol li {
+            margin-bottom: 5px;
+        }
         a {
-            color: #D3D3D3;
-            /* Light grey links */
+            color: #D3D3D3; /* Set link color to light grey */
         }
-
         a:hover {
-            color: #ffffff;
-            /* White text for hover state */
+            color: #ffffff; /* Set link hover color to white */
         }
-
+        strong {
+            color: #ffffff; /* Set strong text color to white */
+        }
+        ul {
+            list-style-type: disc; /* Set unordered list style */
+            margin-left: 20px;
+        }
         .logo-container {
             text-align: center;
+            margin-top: 50px;
         }
     </style>
 </head>
