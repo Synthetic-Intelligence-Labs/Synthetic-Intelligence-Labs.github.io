@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,8 +11,13 @@
             line-height: 1.6;
             padding: 20px;
         }
-        h1 {
-            color: white; /* Regular font color for h1 */
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #D3D3D3; /* Set heading colors to light grey */
+            text-align: center; /* Center align headings */
         }
         h2 {
             margin-top: 30px;
@@ -28,17 +32,24 @@
         ol li {
             margin-bottom: 5px;
         }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding-left: 20px; /* Indent the container content */
+        a {
+            color: #D3D3D3; /* Set link color to light grey */
+        }
+        a:hover {
+            color: #ffffff; /* Set link hover color to white */
+        }
+        strong {
+            color: #ffffff; /* Set strong text color to white */
+        }
+        ul {
+            list-style-type: disc; /* Set unordered list style */
+            margin-left: 20px;
         }
         .logo-container {
             text-align: center;
             margin-top: 50px;
         }
     </style>
-</head>
 <body>
     <div class="container">
         <h1>Good Manufacturing Practice (GMP) Standards for Remote Stimulation Experiments and Data Analysis</h1>
