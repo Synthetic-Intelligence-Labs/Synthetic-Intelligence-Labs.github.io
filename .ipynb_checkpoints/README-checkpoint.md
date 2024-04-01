@@ -1,35 +1,64 @@
+<html lang="en">
 <head>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <meta charset="UTF-8">
-  <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
-  <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
-  <meta name="author" content="Synthetic Intelligence Labs">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
-      background-color: #000000;
-      /* Black background */
-      color: #D3D3D3;
-      /* Light grey text */
-    }
-
-    a {
-      color: #D3D3D3;
-      /* Light grey links */
-    }
-
-    a:hover {
-      color: #ffffff;
-      /* White text for hover state */
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
+    <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
+    <meta name="author" content="Synthetic Intelligence Labs">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: serif;
+            background-color: black; /* Set background color to black */
+            color: #D3D3D3; /* Set text color to light grey */
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #D3D3D3; /* Set heading colors to light grey */
+            text-align: center; /* Center align headings */
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        h3 {
+            margin-top: 20px;
+        }
+        ol {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        ol li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #D3D3D3; /* Set link color to light grey */
+        }
+        a:hover {
+            color: #ffffff; /* Set link hover color to white */
+        }
+        strong {
+            color: #ffffff; /* Set strong text color to white */
+        }
+        ul {
+            list-style-type: disc; /* Set unordered list style */
+            margin-left: 20px;
+        }
+        .logo-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
 </head>
 <body>
+  <div class="logo-container">
+    <img src="https://raw.githubusercontent.com/Synthetic-Intelligence-Labs/Synthetic-Intelligence-Labs.github.io/main/name_and_icon_black_background.png" alt="Synthetic Intelligence Labs Logo">
+  </div>
+  <br>
+  <br>
   <div align="center">
     <a href="https://www.tiktok.com/@synthetic_intelligence">
       <img src="https://img.shields.io/badge/TikTok-synthetic_intelligence_labs-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
@@ -39,17 +68,6 @@
     <a href="https://discord.gg/GVyaBEjCY2">
       <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=Join%20Now&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
     </a>
-  </div>
-  <div align="center">
-    <a href="https://discord.gg/HBHGvDxDmt">
-      <img src="https://img.shields.io/static/v1?label=Metaverse%20Crowdsource&message=450%20Members&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://www.tiktok.com/@metaversecrowdsourcebr">
-      <img src="https://img.shields.io/badge/TikTok-metaverse_crowdsource-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
-    </a>
-  </div>
   <br>
   <br>
   <div align="center">
@@ -60,6 +78,15 @@
     <br>
     <br>
     <br>
+          At Synthetic Intelligence Labs, we are at the forefront of pioneering a symbiotic future where biology and technology converge to unlock unprecedented capabilities. Our multidisciplinary approach integrates cutting-edge research and innovative engineering to develop systems and solutions that stretch the boundaries of what's possible in artificial intelligence and robotics.
+
+Our flagship project involves the development of a Bio-Silicon Synergetic Intelligence System, which stands as a testament to our commitment to merging biological processors, specifically rat brains, with silicon-based technology. This groundbreaking system is designed to leverage the unique processing capabilities of biological brains, augmented with our cutting-edge bidirectional brain-computer interfaces (BCI) and microelectrode arrays (MEA). Our software suite complements this hardware, offering advanced analysis and neuromimetic signal generation capabilities that facilitate seamless integration and communication between biological and electronic components.
+
+In the realm of robotics, we are crafting realistic androids that embody the next leap in human-machine interaction. Utilizing HASEL actuators, these androids offer a level of precision, flexibility, and lifelike movement that sets a new standard for robotic design. Alongside, our HASEL crabbots represent a novel class of robotics that combine versatility with an innovative form factor, pushing the boundaries of exploration and functionality in challenging environments.
+
+Our research extends deep into the analysis of neural signals, employing advanced mathematics and physics to decipher the complex language of the brain. This endeavor not only enhances our understanding of neural dynamics but also drives the innovation of new mathematical models and tools specifically tailored for this purpose. These efforts culminate in the development of our state-of-the-art neural signal analysis software, which represents a significant advancement in our ability to interpret and manipulate neural information.
+
+Synthetic Intelligence Labs is dedicated to bringing these four cornerstone products to the forefront of their respective fields: the Bio-Silicon Synergetic Intelligence System, complete with its suite of BCI hardware, MEA, and analytical software; our lifelike androids powered by HASEL actuators; the versatile HASEL crabbots; and our cutting-edge software for neural signal analysis. Each of these projects underscores our commitment to redefining the interface between biological intelligence and artificial systems, paving the way for a future where such integrations enhance and expand human capabilities.
     <br>
     <br>
     <br> Support us on Patreon <br>
@@ -144,6 +171,7 @@
         <strong>City, University of London</strong>
       </a>: Systems and states of neural signals.
     </li>
+    <br>
     <br>
     <br>
     <br>

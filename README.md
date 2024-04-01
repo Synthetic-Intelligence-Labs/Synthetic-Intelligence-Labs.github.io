@@ -175,15 +175,6 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
     <br>
     <br>
     <br>
-    <h3 align="center">
-      <a href="https://Synthetic-Intelligence-Labs.github.io/experiment-protocol">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids Protocol</a>
-    </h3>
-    <br>
-    <br>
-    <br>
-    <h3 align="center">
-      <a href="https://Synthetic-Intelligence-Labs.github.io/experiment-GMP">Remote Stimulation Experiments and Data Analysis for Human Cortical Spheroids GMP</a>
-    </h3>
     <br>
     <br>
     <br>
