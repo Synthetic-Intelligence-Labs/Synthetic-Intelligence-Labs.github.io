@@ -87,7 +87,6 @@ In the realm of robotics, we are crafting realistic androids that embody the nex
 Our research extends deep into the analysis of neural signals, employing advanced mathematics and physics to decipher the complex language of the brain. This endeavor not only enhances our understanding of neural dynamics but also drives the innovation of new mathematical models and tools specifically tailored for this purpose. These efforts culminate in the development of our state-of-the-art neural signal analysis software, which represents a significant advancement in our ability to interpret and manipulate neural information.
 
 Synthetic Intelligence Labs is dedicated to bringing these four cornerstone products to the forefront of their respective fields: the Bio-Silicon Synergetic Intelligence System, complete with its suite of BCI hardware, MEA, and analytical software; our lifelike androids powered by HASEL actuators; the versatile HASEL crabbots; and our cutting-edge software for neural signal analysis. Each of these projects underscores our commitment to redefining the interface between biological intelligence and artificial systems, paving the way for a future where such integrations enhance and expand human capabilities.
-
     <br>
     <br>
     <br> Support us on Patreon <br>
