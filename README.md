@@ -125,7 +125,7 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
     <a href="https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis">Human cortical organoids game systems, signal analysis, stimulation</a>
   </h3>
   <h3 align="center">
-    <a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">HASEL Crab Robots</a>
+    <a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">Assault Crabbot with Auto Aim/Fire</a>
   </h3>
   <h3 align="center">
     <a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets (starting april 2024)</a>
