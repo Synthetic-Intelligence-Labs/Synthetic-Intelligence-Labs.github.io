@@ -143,6 +143,12 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
     <!-- Another separator -->
     <a href="https://mvcs.one">MVCS Project</a>
   </h3>
+    <h3 align="center">
+    <a href="https://github.com/Unlimited-Research-Cooperative/particle-accelerator-shielding-simulator">Particle Accelerator Shielding Simulation Software, built on GEANT4</a>
+  </h3>
+
+
+
 
   <br>
   <br>
