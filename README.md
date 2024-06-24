@@ -153,31 +153,16 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
   <br>
   <br>
   <br>
-  <br>
-  <br>
-  <div align="center">
-    <h2>🤝 Collaborative Milestones:</h2>
-    <li>
-      <strong>University of Michigan</strong>: Advancing optical stimulation in "DishBrain" experiment replicas.
-    </li>
-    <br>
-    <li>
-      <a href="https://finalspark.com/">
-        <strong>FinalSpark</strong>
-      </a>: Delving into human cortical spheroid learning mechanisms.
-    </li>
-    <li>
-      <br>
-      <a href="https://sites.google.com/site/complexlivingmachineslab">
-        <strong>University of Reading</strong>
-      </a>: Innovative use of bacteria in neural networks.
-    <li>
-      <br>
-      <a href="https://www.pinotsislab.com/">
-        <strong>City, University of London</strong>
-      </a>: Systems and states of neural signals.
-    </li>
-    <br>
+<p><br /> </p>
+<div align="center">
+<h2>🤝 Collaborative Milestones:</h2>
+<ul>
+<li><strong>University of Michigan</strong>: Advancing optical stimulation in "DishBrain" experiment replicas.</li>
+<li><a href="https://finalspark.com/"><strong>FinalSpark</strong> </a>: Delving into human cortical spheroid learning mechanisms.</li>
+<li><a href="https://sites.google.com/site/complexlivingmachineslab"><strong>University of Reading</strong> </a>: Innovative use of bacteria in neural networks.</li>
+<li><a href="https://www.pinotsislab.com/"><strong>City, University of London</strong> </a>: Systems and states of neural signals.</li>
+</ul>
+</div>
     <br>
     <br>
     <br>
