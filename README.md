@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Advancing the future of synthetic biology and intelligence through pioneering research and collaborations across Brazil and the U.S.">
     <meta name="keywords" content="Synthetic Intelligence, Synthetic Biology, Bio-Silicon Systems, Artificial Intelligence, Research, Innovation, University Labs, Labs, Synthetic Biological Intelligence, Neuroscience, Chaos Theory, Dynamical Systems Theory, neural link, neuralink, nerual nets, androids, humanoid robots, EEG, human androids, player two, playertwo, Synthetic Intelligence Labs, SBI, cortical labs, finalspark">
-    <meta name="author" content="Synthetic Intelligence Labs">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
@@ -96,9 +94,6 @@
             <img src="https://seeklogo.com/images/B/boosty-logo-C353020249-seeklogo.com.png" alt="Support us on Boosty" width="200">
         </a>
         <br><br>
-        <a href="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_research_poster.pdf">
-            <img src="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_poster_lowerres.png" alt="Bio Silicon Intelligence System Synthetic Biological Intelligence" width="600">
-        </a>
 
     <br><br><br>
 
