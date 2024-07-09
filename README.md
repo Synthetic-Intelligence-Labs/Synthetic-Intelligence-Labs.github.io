@@ -95,16 +95,10 @@
         <a href="https://boosty.to/synthetic_intelligence">
             <img src="https://seeklogo.com/images/B/boosty-logo-C353020249-seeklogo.com.png" alt="Support us on Boosty" width="200">
         </a>
-    </div>
-    <br><br><br>
-
-    <h2 align="center">Poster</h2>
-
-    <div align="center">
+        <br><br>
         <a href="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_research_poster.pdf">
-            <img src="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_poster_lowerres.png" alt="Bio-Silicon Synergetic Intelligence System Poster">
+            <img src="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_poster_lowerres.png" alt="Bio Silicon Intelligence System Synthetic Biological Intelligence" width="600">
         </a>
-    </div>
 
     <br><br><br>
 
