@@ -106,7 +106,8 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
   <br>
   <br>
   
-### SIL-BSIS-01
+SIL-BSIS-01
+<br>
 
 [![Bio-Silicon Synergetic Intelligence System Poster](https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_poster_lowerres.png)](https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_research_poster.pdf)
 
