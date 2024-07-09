@@ -165,5 +165,4 @@
     <p>Our repositories are located at <a href="https://github.com/Unlimited-Research-Cooperative">https://github.com/Unlimited-Research-Cooperative</a></p>
     <br><br><br>
     <p>Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.</p>
-</body>
-</html>
+
