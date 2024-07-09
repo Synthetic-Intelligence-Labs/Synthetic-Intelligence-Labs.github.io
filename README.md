@@ -105,6 +105,11 @@ Synthetic Intelligence Labs is dedicated to bringing these four cornerstone prod
   <br>
   <br>
   <br>
+  </p>
+<h1 align="center">System High Level Schematic</h1>
+<p align="center">
+  <img src="https://github.com/Unlimited-Research-Cooperative/Bio-Silicon-Synergetic-Intelligence-System/blob/main/images/BSIS_research_poster.pdf" alt="Bio-Silicon Synergetic Intelligence System Poster">
+</p>
   <br>
   <br>
   <br>
