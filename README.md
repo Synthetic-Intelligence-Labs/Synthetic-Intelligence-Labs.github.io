@@ -154,12 +154,9 @@
     <br><br>
     <ul>
         <li>
-            <a href="mailto:soul.syrup@yandex.com">📧 soul.syrup@yandex.com</a>
+            <a href="mailtoinfo@syntheticintelligencelabs.com">📧 info@syntheticintelligencelabs.com</a>
         </li>
         <br><br>
-        <li>
-            <a href="mailto:soul.syrupp@gmail.com">📧 soul.syrupp@gmail.com</a>
-        </li>
     </ul>
     <br><br>
     <p>Our repositories are located at <a href="https://github.com/Unlimited-Research-Cooperative">https://github.com/Unlimited-Research-Cooperative</a></p>
